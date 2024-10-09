@@ -29,12 +29,7 @@
    git clone https://github.com/peng2132/Spider
    ```
 
-2. 安装共用依赖
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. 进入特定项目文件夹，安装项目特定依赖（如果有），并运行脚本
+2. 进入特定项目文件夹，安装项目特定依赖，并运行脚本
    ```bash
    cd NetEaseNews
    pip install -r requirements.txt 
