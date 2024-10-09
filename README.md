@@ -17,7 +17,8 @@
 
 ## 文件结构
 
-- `/NetEaseNews`: 网易新闻爬虫
+- `/NetEaseNews`：网易新闻爬虫
+- `/BilibiliHot`：Bilibili热榜爬虫
 - ...
 - `requirements.txt`: 所有项目共用的基本依赖
 - `README.md`: 本文件
